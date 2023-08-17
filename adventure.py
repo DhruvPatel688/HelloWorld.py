@@ -15,7 +15,7 @@ class Adventure:
                   D) Howl 
                            """)
             if answer == "A" or answer == "B" or answer == "D":
-                print("Try that in a small town, See how far you make it down the road.")
+                print("You lose.")
                 self.lives -= 1
             elif answer == "C":
                 print("You survived to fight another day.")
@@ -28,7 +28,7 @@ class Adventure:
                   D) Howl 
                            """)
             if answer == "C" or answer == "B" or answer == "D":
-                print("Try that in a small town, See how far you make it down the road.")
+                print("You lose.")
                 self.lives -= 1
             elif answer == "A":
                 print("You survived to fight another day.")
@@ -41,7 +41,7 @@ class Adventure:
                   D) Howl 
                            """)
             if answer == "A" or answer == "B" or answer == "D":
-                print("Try that in a small town, See how far you make it down the road.")
+                print("You lose.")
                 self.lives -= 1
             elif answer == "C":
                 print("You survived to fight another day.")
@@ -54,7 +54,7 @@ class Adventure:
                   D) Howl 
                            """)
             if answer == "A" or answer == "B" or answer == "D":
-                print("Try that in a small town, See how far you make it down the road.")
+                print("You lose.")
                 self.lives -= 1
             elif answer == "C":
                 print("You survived to fight another day.")
